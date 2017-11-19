@@ -1,2 +1,2 @@
 # rankwatch17_py_CSVbreakdown
-company work
+read information from one csv file and writes to another csv file using csv library of python.
